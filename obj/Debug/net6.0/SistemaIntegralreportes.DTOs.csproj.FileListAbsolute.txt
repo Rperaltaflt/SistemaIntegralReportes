@@ -1,0 +1,12 @@
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\bin\Debug\net6.0\SistemaIntegralreportes.DTOs.deps.json
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\bin\Debug\net6.0\SistemaIntegralreportes.DTOs.dll
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\bin\Debug\net6.0\SistemaIntegralreportes.DTOs.pdb
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.csproj.AssemblyReference.cache
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.AssemblyInfoInputs.cache
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.AssemblyInfo.cs
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.dll
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\refint\SistemaIntegralreportes.DTOs.dll
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\SistemaIntegralreportes.DTOs.pdb
+C:\Users\rperalta\Desktop\Desarrollo\SIR\Reformulacion\SIR_API-master\SIR_API-master\SistemaIntegralreportes.DTO\obj\Debug\net6.0\ref\SistemaIntegralreportes.DTOs.dll
